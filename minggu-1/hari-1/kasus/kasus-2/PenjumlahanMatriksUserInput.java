@@ -5,7 +5,7 @@ public class PenjumlahanMatriksUserInput{
         int A[][] = new int[3][3];
         int B[][] = new int[3][3];
 
-        Scanner input = new Scanner();
+        Scanner input = new Scanner(System.in);
 
         System.out.println("INPUT ARRAY A");
         for(int i=0;i<3;i++){
@@ -50,6 +50,7 @@ public class PenjumlahanMatriksUserInput{
                 System.out.print(hasil + " ");
                 hasil = 0;
             }
+            System.out.println(" ");
         }
     }
 }
