@@ -77,6 +77,10 @@ Tentukan dulu apa saja yang biasa ada di pembelian
 -------------------------------------
 ```
 
+### FULL IMAGE KARYAWAN
+
+![alt text](gambar/Karyawan.jpeg)
+
 ---
 
 ## CRC MANAJEMEN BARANG
@@ -120,3 +124,7 @@ Tentukan dulu apa saja yang biasa ada di pembelian
 | Tempat Rak    |                   |
 -------------------------------------
 ```
+
+### FULL IMAGE MANAJEMEN BARANG
+
+![alt text](gambar/ManajemenBarang.jpeg)
