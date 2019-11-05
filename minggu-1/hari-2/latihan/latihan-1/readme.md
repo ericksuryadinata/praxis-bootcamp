@@ -1,5 +1,7 @@
 # LATIHAN 1
 
+## بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  
+
 ## CRC CARD
 
 ### SEKILAS TENTANG CRC CARD

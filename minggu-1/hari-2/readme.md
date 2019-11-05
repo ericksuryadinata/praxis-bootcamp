@@ -1,4 +1,6 @@
-# BOOTCAMP HARI 1
+# BOOTCAMP HARI 2
+
+## بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  
 
 ## RINGKASAN
 

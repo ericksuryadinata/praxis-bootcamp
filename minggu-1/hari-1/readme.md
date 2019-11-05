@@ -1,5 +1,7 @@
 # BOOTCAMP HARI 1
 
+## بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  
+
 ## RINGKASAN
 
 Hari ke-1 membahas tentang

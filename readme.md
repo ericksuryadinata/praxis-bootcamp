@@ -1,5 +1,7 @@
 # PRAXIS BOOTCAMP
 
+## بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  
+
 ## ABOUT
 
 Repository ini berisi tentang beberapa pembahasan yang ada di praxis bootcamp
