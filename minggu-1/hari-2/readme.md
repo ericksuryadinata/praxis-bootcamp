@@ -2,7 +2,7 @@
 
 ## RINGKASAN
 
-Hari ke=2 membahas tentang
+Hari ke-2 membahas tentang
 
 1. Konsep OOP
 2. Packages

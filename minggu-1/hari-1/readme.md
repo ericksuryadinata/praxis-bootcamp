@@ -2,7 +2,7 @@
 
 ## RINGKASAN
 
-Hari ke=1 membahas tentang
+Hari ke-1 membahas tentang
 
 1. Variabel
 2. Konstanta
