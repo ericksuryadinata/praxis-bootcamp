@@ -6,6 +6,11 @@ File yang berada disini belum tentu benar 100%, karena oleh penulis sengaja disa
 untuk keperluan pembelajaran
 terima kasih
 
+## PENJELASAN
+
+Kasus ini merupakan implementasi dari `latihan-1`
+
+
 ## HOW TO
 
 Didalam masing - masing folder lakukan hal berikut :
