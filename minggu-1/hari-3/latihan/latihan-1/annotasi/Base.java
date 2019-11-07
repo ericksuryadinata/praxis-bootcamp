@@ -19,9 +19,14 @@ class Base
         obj.display();
     }
 }
+
 class Derived extends Base
 {
      @Override
+     /**
+      * Display message, but override main
+      * @return void
+      */
      public void display()
      {
          System.out.println("Derived display(int )");

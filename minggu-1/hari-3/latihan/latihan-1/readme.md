@@ -1,6 +1,3 @@
-# LATIHAN
+# LATIHAN-1
 
-Berisikan
-
-1. Latihan Annotations
-2. Latihan Generics
+Berisikan Latihan Annotations dan juga cara menggunakan javadocs
