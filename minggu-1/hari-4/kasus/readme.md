@@ -1,5 +1,7 @@
 # Vending Machine
 
+## بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم  
+
 Didalam Folder `kasus-1` terdapat `gradle` project
 
 Langkah nya adalah
